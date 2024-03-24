@@ -9,5 +9,5 @@ Initial network is a consortium blockchain network operated by trusted instituti
 Specification
 -------------
 
-The specification can be found here.
+The specification can be found here.   
 https://hrdkor.github.io/hrdkorea-did/did-method-spec.html
