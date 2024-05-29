@@ -20,4 +20,4 @@ https://mo.q-net.or.kr
 
 Q-Net Platform Service
 -------------
-The initial platform service supports issuers or verifiers to easily issue and verify verificable credentials.
+The Q-Net platform service supports issuers or verifiers to easily issue and verify verificable credentials.
