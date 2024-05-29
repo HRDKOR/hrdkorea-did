@@ -11,3 +11,13 @@ Specification
 
 The specification can be found here.   
 https://hrdkor.github.io/hrdkorea-did/did-method-spec.html
+
+Q-Net Mobile Service
+-------------
+
+We are currently operating Certification Service under the name q-net
+https://mo.q-net.or.kr
+
+Q-Net Platform Service
+-------------
+The initial platform service supports issuers or verifiers to easily issue and verify verificable credentials.
